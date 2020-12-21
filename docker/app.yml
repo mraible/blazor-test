@@ -1,0 +1,6 @@
+version: '2'
+services:
+  blazor-app:
+    image: blazor
+    ports:
+      - 80:80
